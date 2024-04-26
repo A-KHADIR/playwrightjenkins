@@ -17,7 +17,7 @@
 //   const pageTitle = await page.title();
 //     console.log(`Terme de recherche : ${donnee}, Titre de la page : ${pageTitle}`);
 //     await page.waitForTimeout(2000);
-
+//
 
 // await page.close()});
 // await Promise.all(promises);
