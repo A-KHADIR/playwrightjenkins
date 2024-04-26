@@ -20,5 +20,6 @@ for( const donnee of donnees.recherches){
 }
 
 await page.close();
+console.log(`Fin du test`);
 
 });
