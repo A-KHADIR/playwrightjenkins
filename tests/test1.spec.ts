@@ -23,3 +23,4 @@ await page.close();
 console.log(`Fin du test`);
 
 });
+//730.63
